@@ -1,0 +1,5 @@
+.venv
+input/
+outputs
+*.safetensors
+gradio_tmp

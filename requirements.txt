@@ -1,0 +1,22 @@
+# nunchaku: install from GitHub wheel, NOT PyPI (PyPI has a different package)
+# pip install https://github.com/nunchaku-ai/nunchaku/releases/download/v1.2.1/nunchaku-1.2.1%2Bcu12.8torch2.8-cp310-cp310-linux_x86_64.whl
+diffusers
+torch==2.8.0
+torchvision==0.23.0
+transformers
+gradio
+Pillow
+numpy
+sentencepiece
+protobuf
+opencv-python
+insightface
+onnxruntime
+facexlib
+timm
+einops
+ftfy
+onnxruntime-gpu
+accelerate
+safetensors
+torchsde
